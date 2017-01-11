@@ -1,0 +1,38 @@
+# Site settings
+title: Arkay's Blog
+description: ''
+url: 'http://quanganh206.github.io'
+baseurl: '/'
+google_analytics: 'UA-90196814-1'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Quang Anh (Arkay Lee)'
+  email: quanganh@aiti.com
+  twitter_username: QuangAnh_AiTi
+  github_username:  quanganh206
+  linkedin_username:  lequanganh
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
