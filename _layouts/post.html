@@ -14,6 +14,10 @@ layout: default
     {{ content }}
     <p class="right">Quang Anh - {{ page.date | date: "%-d %b %Y" }}</p>
   </section>
-  {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+  {% if page.comments != false and site.disqus_shortname %}
+    <section id="disqus_thread">
+    {% include disqus.html %}
+    </section> <!-- /#disqus_thread -->
+  {% endif %}
 </article>
-<!--{% if page.comments != false %}{% include disqus.html %}{% endif %}-->
+<!-- {% if page.comments != false %}{% include disqus.html %}{% endif %} -->
