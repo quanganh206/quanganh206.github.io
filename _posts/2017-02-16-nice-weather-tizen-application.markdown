@@ -50,6 +50,10 @@ Prepair nice images and icon for your app to submit and wait. Be patient, Tizen 
 
 If you have questions or suggestion please give comments here, so I can follow.
 
+Some pictures of my app:
+
+![splash-screen](/images/nice-weather-tizen-web-application/ads-screen01.jpg){:class="img-responsive"}
+
 Quang Anh - 16th Feb 2017
 
 
