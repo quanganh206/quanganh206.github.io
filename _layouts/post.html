@@ -13,7 +13,7 @@ layout: default
   <section class="post">
     {{ content }}
   </section>
-  <p class="right">Quang Anh - {{ page.date | date: "%-d %b %Y" }}</p>
+  <div class="right">Quang Anh - {{ page.date | date: "%-d %b %Y" }}</div>
   {% if page.comments != false and site.disqus_shortname %}
     <section id="disqus_thread">
     {% include disqus.html %}
