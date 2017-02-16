@@ -4,7 +4,7 @@ description: ''
 url: 'http://quanganh206.github.io'
 baseurl: '/'
 google_analytics: 'UA-90196814-1'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'quanganh206'
 
 author:
   name: 'Quang Anh (Arkay Lee)'
