@@ -52,13 +52,13 @@ If you have questions or suggestion please give comments here, so I can follow.
 
 Some pictures of my app:
 
-![splash-screen](/images/nice-weather-tizen-web-application/ads-screen01.jpg){:class="img-responsive"}{: height="100px"}
-![main-screen](/images/nice-weather-tizen-web-application/ads-screen02.jpg){:class="img-responsive"}{: height="100px"}
-![city-search-screen](/images/nice-weather-tizen-web-application/ads-screen05.jpg){:class="img-responsive"}{: height="100px"}
-![settings-screen](/images/nice-weather-tizen-web-application/ads-screen04.jpg){:class="img-responsive"}{: height="100px"}
-![themes-screen](/images/nice-weather-tizen-web-application/ads-screen06.jpg){:class="img-responsive"}{: height="100px"}
+![splash-screen](/images/nice-weather-tizen-web-application/ads-screen01.jpg){:class="img-responsive"}{: height="300px"}
+![main-screen](/images/nice-weather-tizen-web-application/ads-screen02.jpg){:class="img-responsive"}{: height="300px"}
+![city-search-screen](/images/nice-weather-tizen-web-application/ads-screen05.jpg){:class="img-responsive"}{: height="300px"}
+![settings-screen](/images/nice-weather-tizen-web-application/ads-screen04.jpg){:class="img-responsive"}{: height="300px"}
+![themes-screen](/images/nice-weather-tizen-web-application/ads-screen06.jpg){:class="img-responsive"}{: height="300px"}
 
-p>. Quang Anh - 16th Feb 2017
+Quang Anh - 16th Feb 2017{: .right}
 
 
 [tizen-command-line]: https://developer.tizen.org/dev-guide/web/2.3.0/org.tizen.mobile.web.appprogramming/html/ide_sdk_tools/command_line_interface.htm
