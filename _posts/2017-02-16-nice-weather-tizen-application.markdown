@@ -6,7 +6,7 @@ tags: [tizen, tizen store, weather app, mobile app, nice weather, niceweather]
 comments: true
 ---
 
-**My frist shot with Tizen development**
+**My frist shot with Tizen Application development**
 
 Some information and my experience in developing Nice Weather Tizen Web Application.
 
@@ -48,6 +48,9 @@ After development you will want to upload your app in Tizen Store. It's quite ta
 
 Prepair nice images and icon for your app to submit and wait. Be patient, Tizen Store test team will work on it about 3 or 4 business days. And send you a report with some errors or defects, you must work on it and repeat submit app process. After 3 or 4 times maybe your app will available in Tizen Store. With me I remember 4 times. 
 
+If you have questions or suggestion please give comments here, so I can follow.
+
+Quang Anh - 16th Feb 2017
 
 
 [tizen-command-line]: https://developer.tizen.org/dev-guide/web/2.3.0/org.tizen.mobile.web.appprogramming/html/ide_sdk_tools/command_line_interface.htm
