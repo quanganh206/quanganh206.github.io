@@ -20,23 +20,23 @@ You can use Tizen Studio for your development but in my experience with it in my
 
 After 2 days working with Tizen Studio I decide to play with Tizen command line and going to coding in Visual Studio Code. There are some command line I think will be useful with your development:
 - To list all types of Tizen Web projects template.
-```bash
+```javascript
 tizen list web-project
 ```
 - That command will help you create a tizennews project base on WebBasicApplication template.
-```bash
+```javascript
 tizen create web-project -p mobile-2.4 -t WebBasicApplication -n tznews -- ~/workspace/tizennews
 ```
 - To build project you need to run command build-web.
-```bash
+```javascript
 tizen build-web -- ~/workspace/tizennews
 ```
 - Before running project in emulator you need to package it into .wgt file. (Remmember .buildResult is a hidden folder)
-```bash
+```javascript
 tizen package --type wgt --sign MyProfile -- ~/workspace/tizennews/.buildResult
 ```
 - To install app in emulator, you can use that command line. 
-```bash
+```javascript
 tizen install --target M-2.4 --name tizennews.wgt -- ~/workspace/tizennews/.buildResult
 ```
 (*) One important thing here is signature Profile. You will need to pay sometime with it to make it work in emulator, and it will still appear when you try to make available in Tizen Store. You can find more information to help you do that with command line [here][tizen-command-line].
