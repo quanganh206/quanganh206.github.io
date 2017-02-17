@@ -10,12 +10,12 @@ comments: true
 
 Some information and my experience in developing Nice Weather Tizen Web Application.
 
-*Tizen Web Application*
+## Tizen Web Application
 Develope a Tizen Web Application quite easy! You can use plain HTML, Javascript to make it work and combine it with Tizen Web library. Of course, you can use additional library or framework to support your development like, React, AngularJS, Angular2 or some HTML5/CSS mobile UI libraries like Kendo, Onsen, Framework7 etc...
 
 The main thing here is choose your best framework and library and going with it.
 
-*Build and Test in Emulator*
+## Build and Test in Emulator
 You can use Tizen Studio for your development but in my experience with it in my Mac, Tizen Studio so bad. It will hold all your CPU and RAM, and especially always crash when you try to build the app or run in emulator.
 
 After 2 days working with Tizen Studio I decide to play with Tizen command line and going to coding in Visual Studio Code. There are some command line I think will be useful with your development:
@@ -43,14 +43,14 @@ tizen install --target M-2.4 --name tizennews.wgt -- ~/workspace/tizennews/.buil
 
 This is the way I choose to develop Tizen Web App.
 
-*Tizen Store*
+## Tizen Store
 After development you will want to upload your app in Tizen Store. It's quite take time, especially for some country you do not have real device to play or test. My suggestion is please try to test it smoothly in your emulator. All functionals, how how to quit your app to make sure your app fault tolerant in some use cases. 
 
 Prepair nice images and icon for your app to submit and wait. Be patient, Tizen Store test team will work on it about 3 or 4 business days. And send you a report with some errors or defects, you must work on it and repeat submit app process. After 3 or 4 times maybe your app will available in Tizen Store. With me I remember 4 times. 
 
 If you have questions or suggestion please give comments here, so I can follow.
 
-Some pictures of my app:
+### Some pictures of my app:
 
 ![splash-screen](/images/nice-weather-tizen-web-application/ads-screen01.jpg){:class="img-responsive"}{: height="300px"}
 ![main-screen](/images/nice-weather-tizen-web-application/ads-screen02.jpg){:class="img-responsive"}{: height="300px"}
