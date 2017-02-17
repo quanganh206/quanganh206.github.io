@@ -48,7 +48,7 @@ After development you will want to upload your app in Tizen Store. It's quite ta
 
 Prepair nice images and icon for your app to submit and wait. Be patient, Tizen Store test team will work on it about 3 or 4 business days. And send you a report with some errors or defects, you must work on it and repeat submit app process. After 3 or 4 times maybe your app will available in Tizen Store. With me I remember 4 times. 
 
-If you have questions or suggestion please give comments here, so I can follow.
+If you have questions or suggestion please leave me comments here, so I can follow.
 
 ### Some pictures of my app:
 
