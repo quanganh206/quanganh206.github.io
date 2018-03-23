@@ -92,6 +92,28 @@ h3 {
   flex-direction: row;
 }
 
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .product-list {
+    flex-direction: column;
+  }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .product-list {
+    flex-direction: column;
+  }
+}
+
 .product-list .product {
   flex: 1;
   display: flex;
