@@ -1,9 +1,9 @@
 # Site settings
 title: Arkay's Blog
-description: ''
-url: 'http://quanganh206.github.io'
-baseurl: '/'
-google_analytics: 'UA-90196814-1'
+description: 'Another Technical Blog'
+# url: 'https://quanganh206.github.io'
+# baseurl: '/'
+google_analytics: 'UA-111256185-1'
 disqus_shortname: 'quanganh206github'
 
 author:
@@ -34,5 +34,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate', 'jekyll-github-metadata']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

@@ -1,7 +1,7 @@
 ---
 title:  "First Blog"
 date:   2017-01-10 9:08:23
-categories: [dev]
+categories: [Self]
 tags: [writing, technical]
 ---
 
