@@ -76,6 +76,10 @@ pre.lowlight code,
   text-align: right;
 }
 
+h3 {
+  line-height: 32px;
+}
+
 .product-list {
   margin-top: 10px;
   width: 100%;
