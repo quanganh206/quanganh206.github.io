@@ -1,0 +1,46 @@
+<script type="text/javascript">
+    var data = '{{ site.products | jsonify }}';
+    var products = JSON.parse(data);
+    (function () { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document,
+            ele = d.getElementById('productList');
+
+        var html = '';
+
+        var rands = [];
+        for (var i = 0; i < 3; i++) {
+            rands[i] = Math.floor(Math.random() * products.length);
+        }
+
+        for (var i = 0; i < rands.length; i++) {
+            var childHtml = '<div class="product">';
+            childHtml += '<a href="' + products[rands[i]].link + '">';
+            childHtml += '<img class="product-image" src="' + products[rands[i]].image + '">';
+            childHtml += '<div class="product-price">' + products[rands[i]].price + '</div>';
+            childHtml += '<div class="product-title">' + products[rands[i]].name + '</div>'
+            childHtml += '</a>'
+            childHtml += '</div>'
+            html += childHtml;
+        }
+
+        /*for (var i = 0; i < products.length; i++) {
+            if (now.getTime() % 2 === 0) {
+
+            } else {
+
+            }
+            var childHtml = '<div class="product">';
+            childHtml += '<a href="' + products[i].link + '">';
+            childHtml += '<img class="product-image" src="' + products[i].image + '">';
+            childHtml += '<div class="product-price">' + products[i].price + '</div>';
+            childHtml += '<div class="product-title">' + products[i].name + '</div>'
+            childHtml += '</a>'
+            childHtml += '</div>'
+            html += childHtml;
+        }*/
+        ele.innerHTML += html;
+    })();
+</script>
+<noscript>
+    Please enable JavaScript to view the Product List.
+</noscript>

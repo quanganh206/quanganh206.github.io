@@ -18,6 +18,15 @@ layout: default
     {{ content }}
   </section>
   <div class="right">Quang Anh - {{ page.date | date: "%-d %b %Y" }}</div>
+
+  <div class="product-list-intro">
+    <h4>Please take a look at some of my products</h4>
+  </div>
+
+  <div id="productList" class="product-list"></div>
+  
+  {% include products.html %}
+
   {% if page.comments != false and site.disqus_shortname %}
     <section id="disqus_thread">
     {% include disqus.html %}
