@@ -2,14 +2,15 @@
 layout: default
 ---
 <h2>Categories:</h2>
-<div class="categories"> 
-{% for catitem in site.categories  %} 
+<div class="categories">
+{% assign sortedCategories = site.categories | sort %}
+{% for catitem in sortedCategories %} 
   <a href="#{{  catitem[0] }}">{{  catitem[0] }}</a>
 {% endfor %}
 </div>
 
-<!-- iterate through all categories on the site --> 
-{% for catitem in site.categories %} 
+<!-- iterate through all categories on the site -->
+{% for catitem in sortedCategories %} 
   <!-- for each tag, create an anchor by using the tag name as an id --> 
   <div id="{{ catitem[0] }}">  
     <h3> {{ catitem[0] }} </h3>  <!-- for create a heading --> 

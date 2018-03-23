@@ -76,6 +76,10 @@ pre.lowlight code,
   text-align: right;
 }
 
+.post {
+  text-align: justify;
+}
+
 h3 {
   line-height: 32px;
 }
