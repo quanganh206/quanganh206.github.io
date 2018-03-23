@@ -1,7 +1,7 @@
 ---
 title:  "Nice Weather Tizen Application"
 date:   2017-02-16 9:08:23
-categories: [dev]
+categories: [Tizen]
 tags: [tizen, tizen store, weather app, mobile app, nice weather, niceweather]
 comments: true
 ---
