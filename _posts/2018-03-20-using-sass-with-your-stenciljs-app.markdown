@@ -1,6 +1,6 @@
 ---
 title:  "Using SASS in your StencilJS App"
-date:   2018-03-20 9:08:23
+date:   2018-03-20 18:03:18
 categories: [StencilJS]
 tags: [Stencil, StencilJS, Web Component, Sass]
 comments: true
