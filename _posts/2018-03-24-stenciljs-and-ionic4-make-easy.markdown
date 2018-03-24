@@ -10,7 +10,7 @@ As you know Ionic Team had done a great thing with Ionic Framework from version 
 
 What'll we do in that article:
 - StencilJS and @ionic/core library
-- Styling with SASS (you can reference using SASS with StencilJS here)
+- Styling with SASS (you can reference using SASS with StencilJS [here][using-sass-with-your-stenciljs])
 - Simple routing to navigate through the app
 
 ## Starting with a new StencilJS App
@@ -36,7 +36,7 @@ mkdir components
 npm i -S @ionic/core @stencil/sass
 ```
 
-Tips: I suggest you update the latest `@stencil/core`, in that article I use `@stencil/core@^0.7.7`. For config SASS to work with StencilJS you can follow that article.
+Tips: I suggest you update the latest `@stencil/core`, in that article I use `@stencil/core@^0.7.7`. For config SASS to work with StencilJS you can follow that [article][using-sass-with-your-stenciljs].
 
 ## Our App's Component Structure
 To make it easier and more familiar with the previous article. We will use the same components **my-app**, **app-home** and **app-profile** to describe how it works. Simple each component we will have 2 main file, one for style .scss file and one for .tsx file to render our component.
@@ -158,6 +158,22 @@ npm start
 
 And you can get the app working as below.
 
- 							 						
- 							 						
+![StencilJS Ionic 4 - 01](https://www.xmobe.com/wp-content/uploads/2018/03/stenciljs-ionic4-01.png){:class="img-responsive"}
+![StencilJS Ionic 4 - 02](https://www.xmobe.com/wp-content/uploads/2018/03/stenciljs-ionic4-02.png){:class="img-responsive"}
+						 						
 Next articles we will try to work with Menu and Tabs in StencilJS and Ionic4. See you soon!
+
+Tips: if you boring with creating components you can use my small tool here to save your typing time.
+
+```bash
+# install my small generator
+npm install -g generator-stencil-component
+
+# then free to use it
+yo stencil-component YourComponentName
+
+# eg.
+yo stencil-component app-home
+```
+
+[using-sass-with-your-stenciljs]: https://www.xmobe.com/stenciljs/using-sass-in-your-stenciljs-app/
