@@ -19,7 +19,7 @@ The next step is working with stencil config file:
 ```javascript
 // stencil.config.js
 // add this on top of the file
-sass = require('@stencil/sass');
+const sass = require('@stencil/sass');
 ...
 exports.config = {
   ...
