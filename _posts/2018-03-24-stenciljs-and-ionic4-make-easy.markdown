@@ -158,8 +158,8 @@ npm start
 
 And you can get the app working as below.
 
-![StencilJS Ionic 4 - 01](https://www.xmobe.com/wp-content/uploads/2018/03/stenciljs-ionic4-01.png){:class="img-responsive"}
-![StencilJS Ionic 4 - 02](https://www.xmobe.com/wp-content/uploads/2018/03/stenciljs-ionic4-02.png){:class="img-responsive"}
+![StencilJS Ionic 4 - 01](https://www.xmobe.com/wp-content/uploads/2018/03/stenciljs-ionic4-01.png){:class="img-responsive"}{: height="360px"}
+![StencilJS Ionic 4 - 02](https://www.xmobe.com/wp-content/uploads/2018/03/stenciljs-ionic4-02.png){:class="img-responsive"}{: height="360px"}
 						 						
 Next articles we will try to work with Menu and Tabs in StencilJS and Ionic4. See you soon!
 
