@@ -44,6 +44,8 @@ To make it easier and more familiar with the previous article. We will use the s
 Let's look at first component *my-app*:
 
 ```typescript
+import '@ionic/core';
+import '@stencil/core';
 import { Component } from '@stencil/core';
 
 
