@@ -178,4 +178,24 @@ yo stencil-component YourComponentName
 yo stencil-component app-home
 ```
 
+## Update 26th of Mar 2018
+You can use Stencil component creator supported by Ionic Team. First installation
+
+```bash
+npm i -g st-cc
+```
+
+Then you can use it some thing like as following:
+```bash
+npx st-cc
+Stencil component creator
+? What is name of the component you want to create? test-app
+? Is shadow component? No
+? What type of style file? scss
+? Create test file? Yes
+🚀 Stencil component test-app created!
+```
+
+Note: npx is a new utility available in npm 5 or above that executes local binaries/scripts to avoid global installs.
+
 [using-sass-with-your-stenciljs]: https://www.xmobe.com/stenciljs/using-sass-in-your-stenciljs-app/
