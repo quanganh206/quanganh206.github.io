@@ -1,6 +1,6 @@
 ---
 title:  "Integrate Firebase Into Stenciljs App"
-date:   2018-03-26 09:39:00
+date:   2018-03-26 06:39:00
 categories: [StencilJS, Ionic2, Ionic4]
 tags: [Stencil, StencilJS, Web Component, Sass, Firebase]
 comments: true

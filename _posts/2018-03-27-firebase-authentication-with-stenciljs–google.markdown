@@ -1,6 +1,6 @@
 ---
 title:  "Firebase Authentication with StencilJS – Google"
-date:   2018-03-27 09:39:00
+date:   2018-03-27 06:39:00
 categories: [StencilJS, Ionic2, Ionic4]
 tags: [Stencil, StencilJS, Web Component, Sass, Firebase, Firebase Authentication, Google Authentication, Authentication]
 comments: true
@@ -128,6 +128,9 @@ export class AppLogin {
 Okay continue with the componentProps in my-app component pass to app-login. We need to import Prop decorator and then using it with `@Prop() firebase;` to get firebase passing from my-app component.
 
 The second thing inside app-login component is calling `signInWithRedirect` with Google Auth Provider to make a login with Google Authentication. Yes that allllll, that’s easy huh?
+
+Note: Please remember to config your firebase working with Google Authentication:
+![Firebase Authentication with StencilJS – Google - 04](https://www.xmobe.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-26-at-2.30.15-PM.png){:class="img-responsive"}{: height="360px"}
 
 I make a small change to home to show the result
 
