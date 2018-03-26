@@ -92,6 +92,10 @@ h3 {
   flex-direction: row;
 }
 
+.post-list h4 {
+  font-weight: 500;
+}
+
 /* 
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
   ##Screen = B/w 481px to 767px
