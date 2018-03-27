@@ -4,11 +4,12 @@ layout: default
 <article class="post-container post-container--single">
   <header class="post-header">
     <div class="post-meta">
-      <time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">tags {% for tag in page.tags %}<a href="{{ "/" | relative_url }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
+      <time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">Tags: {% for tag in page.tags %}<a href="{{ "/" | relative_url }}tags/#{{ tag }}">{{ tag }}</a>, {% endfor %}</span>
     </div>
     <div class="post-meta">
-      Categories {% for cat in page.categories %}
-        <a href="{{ "/" | relative_url }}categories/#{{ cat }}">{{ cat }}</a> {% endfor %}
+      Categories: {% for cat in page.categories %}
+        <a href="{{ "/" | relative_url }}categories/#{{ cat }}">{{ cat }}</a>, 
+      {% endfor %}
     </div>
     <a class="github-fork-ribbon" href="https://github.com/quanganh206" title="Fork me on GitHub">Fork me on GitHub</a>
     <h1 class="post-title">{{ page.title }}</h1>
