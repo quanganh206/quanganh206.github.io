@@ -1,6 +1,6 @@
 ---
 title:  "Firebase Authentication with StencilJS – Google"
-date:   2018-03-27 06:39:00
+date:   2018-03-27 05:59:00
 categories: [StencilJS, Ionic2, Ionic4]
 tags: [Stencil, StencilJS, Web Component, Sass, Firebase, Firebase Authentication, Google Authentication, Authentication]
 comments: true
