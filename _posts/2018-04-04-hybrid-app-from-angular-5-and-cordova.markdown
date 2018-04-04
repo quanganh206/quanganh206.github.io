@@ -1,6 +1,6 @@
 ---
 title:  "Hybrid App from Angular 5 and Cordova"
-date:   2018-04-04 01:09:00
+date:   2018-04-04 06:39:00
 categories: [Angular5, Cordova]
 tags: [Cordova, Angular5, Hybrid App]
 comments: true
