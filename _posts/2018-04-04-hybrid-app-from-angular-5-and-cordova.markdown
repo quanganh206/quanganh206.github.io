@@ -8,7 +8,7 @@ comments: true
 
 Today we come back to the old question: How to convert my current Angular 4 or 5 into a Hybrid Cordova App?
 
->Yes, it comes from my experience with [Ionic4 Angular 5 RC][experiencing-ionic4-angular5-project-rc]. I think Ionic Team going on the right way with that step. Angular Developers familiar with ng client can quickly adapt with Ionic4 Angular. And furthermore, in the same way, we can make Ionic 4 working like that with React or Vue. -- my point of view   --
+>Yes, it comes from my experience with [Ionic4 Angular 5 RC][experiencing-ionic4-angular5-project-rc]. I think Ionic Team going on the right way with that step. Angular Developers familiar with ng client can quickly adapt with Ionic4 Angular. And furthermore, in the same way, we can make Ionic 4 working like that with React or Vue. -- my point of view ![xMobe - Smile](https://s.w.org/images/core/emoji/2.4/svg/1f601.svg){:class="img-responsive"}{: width="20px"}  --
 
 Okay, let's go.
 

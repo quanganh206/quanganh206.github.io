@@ -6,14 +6,14 @@ tags: [Capacitor, Angular5, Hybrid App, Native Web Apps, Ionic Framework]
 comments: true
 ---
 
-Hello everyone! Welcome to xMobe technology jungle. In this article, we are going on an **"Indiana Jones Journey"** with Capacitor.
+Hello everyone! Welcome to xMobe technology jungle ![xMobe - Smoke](https://s.w.org/images/core/emoji/2.4/svg/1f912.svg){:class="img-responsive"}{: width="20px"}. In this article, we are going on an **"Indiana Jones Journey"** with Capacitor.
 
 ### What Capacitor is?
 Let's see the definition in [https://capacitor.ionicframework.com/docs/][https://capacitor.ionicframework.com/docs/]
 
 >Capacitor is a cross-platform app runtime that makes it easy to build web apps that run natively on iOS, Android, Electron, and the web. We call these apps "Native Progressive Web Apps" and they represent the next evolution beyond Hybrid apps.
 
-Yes, it is! Understand??? Just a little bit :D !!! The best way to get more understand with Capacitor is dig into it.
+Yes, it is! Understand??? Just a little bit ![xMobe - Cry Smile](https://s.w.org/images/core/emoji/2.4/svg/1f602.svg){:class="img-responsive"}{: width="20px"} !!! The best way to get more understand with Capacitor is dig into it.
 
 Before the start, please make sure you had install **npm 5** or above.
 
