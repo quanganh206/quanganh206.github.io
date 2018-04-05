@@ -71,7 +71,7 @@ future: false
 kramdown:
   # use Github Flavored Markdown
   input: GFM
-  # do not replace newlines by <br>s
+  # do not replace newlines by <br>
   hard_wrap: false
 
 plugins: ['jekyll-paginate', 'jekyll-github-metadata']
