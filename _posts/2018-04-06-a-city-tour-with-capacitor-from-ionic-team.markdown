@@ -1,6 +1,6 @@
 ---
 title:  "A city tour with Capacitor from Ionic Team"
-date:   2018-04-06 01:09:00
+date:   2018-04-06 01:08:00
 categories: [Capacitor, Native Web Apps, Hybrid App]
 tags: [Capacitor, Angular5, Hybrid App, Native Web Apps, Ionic Framework]
 comments: true
