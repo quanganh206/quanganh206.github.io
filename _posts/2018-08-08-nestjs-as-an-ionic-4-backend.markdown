@@ -1,6 +1,6 @@
 ---
 title:  "NestJS as an Ionic 4 Backend"
-date:   2018-08-08 09:01:00 +0700
+date:   2018-08-08 08:01:00 +0700
 categories: [Ionic 4, NestJS]
 tags: [Ionic Framework, Ionic 4, NestJS, NodeJS, Typescript]
 comments: true
