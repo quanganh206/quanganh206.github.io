@@ -12,7 +12,7 @@ Yes as an Ionic Developer you can easy start with **ionic start project_name <pr
 
 From that inspire, I try to make something like that projects (also structure). Hope it will help Ionic's Dev can quick get something new in hot trend Flutter.
 
-![Flutter Side Menu, Tabs Struture](https://www.xmobe.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-28-at-2.48.50-PM.png){:class="img-responsive"}
+![Flutter Side Menu, Tabs Struture](https://www.xmobe.com/assets/images/2018/08/Screen-Shot-2018-08-28-at-2.48.50-PM.png){:class="img-responsive"}
 
 ## Flutter Side Menu
 
@@ -78,7 +78,7 @@ flutter packages get
 flutter run
 ```
 
-![Flutter Side Menu, Tabs](https://www.xmobe.com/wp-content/uploads/2018/08/flutter_boilerplate.png){:class="img-responsive"}
+![Flutter Side Menu, Tabs](https://www.xmobe.com/assets/images/2018/08/flutter_boilerplate.png){:class="img-responsive"}
 
 [https://github.com/xmobe-com/flutter-sidemenu]:https://github.com/xmobe-com/flutter-sidemenu
 [https://github.com/xmobe-com/flutter-tabs]:https://github.com/xmobe-com/flutter-tabs

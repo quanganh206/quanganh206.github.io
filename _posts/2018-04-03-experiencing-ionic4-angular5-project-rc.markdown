@@ -55,7 +55,7 @@ And then you will be asked to add Cordova or not and Ionic Client will auto ins
 
 I assume you finish the rest steps and have to go to your ion4angular folder. Open it with your best IDE and take a look.
 
-![Ionic4 Angular RC - Angular Cli](https://www.xmobe.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.01.32-PM-1024x683.png){:class="img-responsive"}{: height="500px"}
+![Ionic4 Angular RC - Angular Cli](https://www.xmobe.com/assets/images/2018/04/Screen-Shot-2018-04-03-at-4.01.32-PM-1024x683.png){:class="img-responsive"}{: height="500px"}
 
 Ooh, surprise? Yes! It's look like an Angular Client project!!! For the rest of thing, you will see it quite the same with your old Ionic 3 project.
 
@@ -126,7 +126,7 @@ Now let's go to your index.html page and change the base tag to:
 
 And retest with ionic cordova run android | ios. Ohh, it's working my friends! And here is the result
 
-![Ionic4 Angular RC - iPhone X](https://www.xmobe.com/wp-content/uploads/2018/04/Simulator-Screen-Shot-iPhone-X-2018-04-03-at-15.13.06_iphonexspacegrey_portrait-1024x1024.png){:class="img-responsive"}{: height="500px"}
+![Ionic4 Angular RC - iPhone X](https://www.xmobe.com/assets/images/2018/04/Simulator-Screen-Shot-iPhone-X-2018-04-03-at-15.13.06_iphonexspacegrey_portrait-1024x1024.png){:class="img-responsive"}{: height="500px"}
 
 Now, maybe you want to see more example code. Please go to new ionic conference app here: [https://github.com/ionic-team/ionic-conference-app/tree/core-update][https://github.com/ionic-team/ionic-conference-app/tree/core-update].
 

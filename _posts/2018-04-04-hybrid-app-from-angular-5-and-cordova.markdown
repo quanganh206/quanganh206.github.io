@@ -100,11 +100,11 @@ cordova run android
 cordova run ios
 ```
 
-![Angular5 Cordova - iPhone X](https://www.xmobe.com/wp-content/uploads/2018/04/Simulator-Screen-Shot-iPhone-X-2018-04-03-at-21.45.45_iphonexspacegrey_portrait-1024x1024.png){:class="img-responsive"}{: height="500px"}
+![Angular5 Cordova - iPhone X](https://www.xmobe.com/assets/images/2018/04/Simulator-Screen-Shot-iPhone-X-2018-04-03-at-21.45.45_iphonexspacegrey_portrait-1024x1024.png){:class="img-responsive"}{: height="500px"}
 
 **Note**: if you working with routing, please remember to change base tag in index.html to this <base href="./">.
 
-![Angular5 Cordova - Pixel 2](https://www.xmobe.com/wp-content/uploads/2018/04/Screenshot_1522767718_pixel_really_blue_portrait-1022x1024.png){:class="img-responsive"}{: height="500px"}
+![Angular5 Cordova - Pixel 2](https://www.xmobe.com/assets/images/2018/04/Screenshot_1522767718_pixel_really_blue_portrait-1022x1024.png){:class="img-responsive"}{: height="500px"}
 
 
 [experiencing-ionic4-angular5-project-rc]: https://www.xmobe.com/ionic/experiencing-ionic4-angular5-project-rc/

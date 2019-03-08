@@ -16,3 +16,5 @@ Quiky edit
 
 [nestjs-as-an-ionic-4-backend]: https://www.xmobe.com/ionic-4/nestjs-as-an-ionic-4-backend/
 
+rvm use ruby-2.5.0
+bundle exec jekyll serve

@@ -8,7 +8,7 @@ comments: true
 
 *"That articles not for war, it is just my own question for the next step of developing new Mobile App."*
 
-![Flutter vs Ionic4](https://www.xmobe.com/wp-content/uploads/2018/08/ionic-flutter.png){:class="img-responsive"}
+![Flutter vs Ionic4](https://www.xmobe.com/assets/images/2018/08/ionic-flutter.png){:class="img-responsive"}
 
 A bit of my working history with Ionic and Cordova go to _(1)_
 

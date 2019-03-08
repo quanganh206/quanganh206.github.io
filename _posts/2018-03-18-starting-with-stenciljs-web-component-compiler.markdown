@@ -43,14 +43,14 @@ npm install
 npm start
 Your app will be up and running on localhost port 3333.
 ```
-![StencilJS Start App](https://i0.wp.com/www.xmobe.com/wp-content/uploads/2018/03/start_with_stencil_01.png?resize=768%2C576&ssl=1){:class="img-responsive"}{: height="200px"}
+![StencilJS Start App](https://i0.wp.com/www.xmobe.com/assets/images/2018/03/start_with_stencil_01.png?resize=768%2C576&ssl=1){:class="img-responsive"}{: height="200px"}
 
 Okay, you have a running StencilJS app now! Let's go ahead with more detail inside.
 
 ## StencilJS Starter App Structure
 The StencilJS App Structure quite simple. You will see a clear structure look like the image below:
 
-![StencilJS App Structure](https://i1.wp.com/www.xmobe.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-23-at-3.26.10-PM.png?resize=1024%2C745&ssl=1){:class="img-responsive"}
+![StencilJS App Structure](https://i1.wp.com/www.xmobe.com/assets/images/2018/03/Screen-Shot-2018-03-23-at-3.26.10-PM.png?resize=1024%2C745&ssl=1){:class="img-responsive"}
 
 The main entry point is in src/index.html
 

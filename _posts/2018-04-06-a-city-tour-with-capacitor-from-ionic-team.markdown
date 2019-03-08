@@ -121,8 +121,8 @@ npx cap open android
 npx cap open ios
 ```
 
-![Capacitor - xCode](https://www.xmobe.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-05-at-3.51.09-PM-1024x669.png){:class="img-responsive"}{: width="600px"}
-![Capacitor - Android Studio](https://www.xmobe.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-05-at-3.50.43-PM-1024x725.png){:class="img-responsive"}{: width="600px"}
+![Capacitor - xCode](https://www.xmobe.com/assets/images/2018/04/Screen-Shot-2018-04-05-at-3.51.09-PM-1024x669.png){:class="img-responsive"}{: width="600px"}
+![Capacitor - Android Studio](https://www.xmobe.com/assets/images/2018/04/Screen-Shot-2018-04-05-at-3.50.43-PM-1024x725.png){:class="img-responsive"}{: width="600px"}
 
 If you need to make it work with Vue Project, no problem try with it but need some change that you can find in my other article with [Vue and Ionic 4][Vue and Ionic 4] to make Vue build in www folder. Yes, go ahead.
 

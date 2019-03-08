@@ -48,7 +48,7 @@ npm start
 
 Then open your Chrome or Safari console you can see something like that:
 
-![StencilJS Ionic 4 - Firebase](https://www.xmobe.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-26-at-10.56.31-AM-1024x371.png){:class="img-responsive"}{: height="206px"}
+![StencilJS Ionic 4 - Firebase](https://www.xmobe.com/assets/images/2018/03/Screen-Shot-2018-03-26-at-10.56.31-AM-1024x371.png){:class="img-responsive"}{: height="206px"}
 
 Thank for your reading. Hope it helps. See you in the next article with Firebase Authentication in StencilJS.
 

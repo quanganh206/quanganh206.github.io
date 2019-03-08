@@ -38,7 +38,7 @@ vue init webpack ion4vue
 
 Congratulation, you've done the first step of our great app. Let's go inside Vue's project folder ion4vue and open it with your favorite IDE to look around.
 
-![Vue Ionic4 Cordova Hybrid App - Visual Studio Code](https://www.xmobe.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-4.39.45-PM-1024x686.png){:class="img-responsive"}{: height="500px"}
+![Vue Ionic4 Cordova Hybrid App - Visual Studio Code](https://www.xmobe.com/assets/images/2018/04/Screen-Shot-2018-04-04-at-4.39.45-PM-1024x686.png){:class="img-responsive"}{: height="500px"}
 
 Now it's time the Ionic4 come & take the ball. Please open your index.html file and add the following line to it.
 
@@ -95,7 +95,7 @@ npm run start
 
 and you can see the result like that:
 
-![Vue Ionic4 Cordova Hybrid App - Google Chrome](https://www.xmobe.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-4.56.23-PM-950x1024.png){:class="img-responsive"}{: height="500px"}
+![Vue Ionic4 Cordova Hybrid App - Google Chrome](https://www.xmobe.com/assets/images/2018/04/Screen-Shot-2018-04-04-at-4.56.23-PM-950x1024.png){:class="img-responsive"}{: height="500px"}
 
 Great! Now you can testing with Cordova, but please wait. Vue build process will generate your app content into dist folder. But Cordova just accepts www folder. We need some small config here to make it work with Cordova. 
 

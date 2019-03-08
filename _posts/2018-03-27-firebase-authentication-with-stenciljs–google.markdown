@@ -130,7 +130,7 @@ Okay continue with the componentProps in my-app component pass to app-login. We 
 The second thing inside app-login component is calling `signInWithRedirect` with Google Auth Provider to make a login with Google Authentication. Yes that allllll, that’s easy huh?
 
 Note: Please remember to config your firebase working with Google Authentication:
-![Firebase Authentication with StencilJS – Google - 04](https://www.xmobe.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-26-at-2.30.15-PM.png){:class="img-responsive"}{: height="360px"}
+![Firebase Authentication with StencilJS – Google - 04](https://www.xmobe.com/assets/images/2018/03/Screen-Shot-2018-03-26-at-2.30.15-PM.png){:class="img-responsive"}{: height="360px"}
 
 I make a small change to home to show the result
 
@@ -177,9 +177,9 @@ npm start
 
 Then open your Chrome or Safari console you can see something like that:
 
-![Firebase Authentication with StencilJS – Google - 01](https://www.xmobe.com/wp-content/uploads/2018/03/Firebase-Authentication-with-StencilJS-02.png){:class="img-responsive"}{: height="206px"}
-![Firebase Authentication with StencilJS – Google - 02](https://www.xmobe.com/wp-content/uploads/2018/03/Firebase-Authentication-with-StencilJS-03.png){:class="img-responsive"}{: height="206px"}
-![Firebase Authentication with StencilJS – Google - 03](https://www.xmobe.com/wp-content/uploads/2018/03/Firebase-Authentication-with-StencilJS-01.png){:class="img-responsive"}{: height="206px"}
+![Firebase Authentication with StencilJS – Google - 01](https://www.xmobe.com/assets/images/2018/03/Firebase-Authentication-with-StencilJS-02.png){:class="img-responsive"}{: height="206px"}
+![Firebase Authentication with StencilJS – Google - 02](https://www.xmobe.com/assets/images/2018/03/Firebase-Authentication-with-StencilJS-03.png){:class="img-responsive"}{: height="206px"}
+![Firebase Authentication with StencilJS – Google - 03](https://www.xmobe.com/assets/images/2018/03/Firebase-Authentication-with-StencilJS-01.png){:class="img-responsive"}{: height="206px"}
 
 Hope it helps to save time in development. Happy coding!!!
 

@@ -36,11 +36,11 @@ nest generate controller items controllers
 
 That command creates an Item Controller within the controllers folder. And then push some line of code like what you see:
 
-![Items - Controller](https://www.xmobe.com/wp-content/uploads/2018/08/carbon-1.png){:class="img-responsive"}
+![Items - Controller](https://www.xmobe.com/assets/images/2018/08/carbon-1.png){:class="img-responsive"}
 
 Now test your API, I use Postman to call get with localhost:3000/items, and get something like that.
 
-![Items - API Call](https://i0.wp.com/www.xmobe.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-07-at-10.33.45-AM.png?w=1960&ssl=1){:class="img-responsive"}
+![Items - API Call](https://i0.wp.com/www.xmobe.com/assets/images/2018/08/Screen-Shot-2018-08-07-at-10.33.45-AM.png?w=1960&ssl=1){:class="img-responsive"}
 
 Okay, quite a good start. Now we jump into Ionic 4. Assume you start with an Ionic 4 project yet. If not here you go:
 
@@ -54,25 +54,25 @@ We going to create a Service with Angular Cli command:
 ng g service items/item
 ```
 
-![Items - Service](https://i1.wp.com/www.xmobe.com/wp-content/uploads/2018/08/carbon-1-1.png?w=1060&ssl=1){:class="img-responsive"} 
+![Items - Service](https://i1.wp.com/www.xmobe.com/assets/images/2018/08/carbon-1-1.png?w=1060&ssl=1){:class="img-responsive"} 
 
 And add a minimum code like you see. And then try to use this in List Page.
 
-![Items - List Page](https://i1.wp.com/www.xmobe.com/wp-content/uploads/2018/08/carbon-2.png?w=1480&ssl=1){:class="img-responsive"} 
+![Items - List Page](https://i1.wp.com/www.xmobe.com/assets/images/2018/08/carbon-2.png?w=1480&ssl=1){:class="img-responsive"} 
 
 Everything nice, but when I try to run with our new Backend, one thing happend.
 
-![Cors - API Items](https://i2.wp.com/www.xmobe.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-07-at-10.46.48-AM.png?w=1402&ssl=1){:class="img-responsive"} 
+![Cors - API Items](https://i2.wp.com/www.xmobe.com/assets/images/2018/08/Screen-Shot-2018-08-07-at-10.46.48-AM.png?w=1402&ssl=1){:class="img-responsive"} 
 
 NestJS have a nice way to do with CORS you can find it here https://docs.nestjs.com/techniques/cors
 
 For our quick development you can have a simple change in your main.ts
 
-![Cors - Main.ts](https://i0.wp.com/www.xmobe.com/wp-content/uploads/2018/08/carbon-3.png?w=1328&ssl=1){:class="img-responsive"}  
+![Cors - Main.ts](https://i0.wp.com/www.xmobe.com/assets/images/2018/08/carbon-3.png?w=1328&ssl=1){:class="img-responsive"}  
 
 Then retest with what you have you can see your new List Page like below.
 
-![Items - Page](https://i2.wp.com/www.xmobe.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-07-at-10.47.18-AM.png?w=598&ssl=1){:class="img-responsive"}  
+![Items - Page](https://i2.wp.com/www.xmobe.com/assets/images/2018/08/Screen-Shot-2018-08-07-at-10.47.18-AM.png?w=598&ssl=1){:class="img-responsive"}  
 
 Happy coding!!!
 
